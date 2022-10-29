@@ -5,7 +5,7 @@
 - 👀 I’m interested in knowledge
 - 🌱 I'm currently learning more about programming logic.
 - 💞️ I try to collaborate on projects, but nothing daring yet
-- 📫 How to reach me <a href="https://jhonnyrbueno.github.io/site/" alt="site" targt="_blank">site</a>
+- 📫 How to reach my <a href="https://jhonnyrbueno.github.io/site/" alt="site" targt="_blank">site</a>
 
 <div align="center">
   <a href="https://github.com/jhonnyrbueno" target="_blank">
